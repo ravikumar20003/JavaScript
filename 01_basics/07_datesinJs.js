@@ -29,3 +29,6 @@ newDate.toLocaleString('default', {
     weekday: "long",
     
 })
+
+let currdate = new Date();
+console.log(currdate);
