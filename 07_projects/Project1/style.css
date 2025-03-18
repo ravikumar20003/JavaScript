@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+}
+
+span{
+    border: 1px solid black;
+    height: 70px;
+    width: 70px;
+}
+h1{
+    margin: 70px;
+    margin-left: 783px;
+}
+#gray{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
