@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+}
+form{
+    margin-top: 80px;
+    margin-left: -270px;
+}
+h1{
+    font-size: 34px;
+    font-weight: 600;
+}
